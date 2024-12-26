@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://github.com/gnmlabs/sowa/blob/32bc91bc06aa57d359a477bef0f05eccdb698adb/public/logo.png" alt="sowa Logo" height="300">
+  <img src="https://github.com/gnmlabs/sowa/blob/67c2626d1f78fa31723c210341b339afff553d87/logo.png" alt="Sowa Logo" height="300">
 </div>
 
 ### Question answering system powered by LLMs
