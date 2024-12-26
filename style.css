@@ -1,0 +1,94 @@
+/* Custom styles for Advanced Textbook Q&A System */
+
+/* Main container */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #1E88E5;
+}
+
+/* Info boxes */
+.stAlert {
+    background-color: #E3F2FD;
+    color: #1565C0;
+    border: 1px solid #1E88E5;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #1E88E5;
+    color: white;
+    border-radius: 0.5rem;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background-color: #1565C0;
+}
+
+/* File uploader */
+.stFileUploader {
+    background-color: #E3F2FD;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 1px dashed #1E88E5;
+}
+
+/* Expander */
+.streamlit-expanderHeader {
+    background-color: #E3F2FD;
+    color: #1565C0;
+    border-radius: 0.5rem;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: #F5F5F5;
+}
+
+/* Footer */
+footer {
+    visibility: hidden;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #F5F5F5;
+    color: #757575;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.8rem;
+}
+
+/* Query History */
+.stExpander {
+    border: 1px solid #E0E0E0;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.stExpander > div:first-child {
+    border-bottom: 1px solid #E0E0E0;
+}
+
+/* Textbook Structure */
+.stExpander ul {
+    list-style-type: none;
+    padding-left: 1rem;
+}
+
+.stExpander li {
+    margin-bottom: 0.5rem;
+}
+

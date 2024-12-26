@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+nltk
+gensim
+transformers
+sentence-transformers
+groq
+faiss-cpu
