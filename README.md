@@ -1,4 +1,26 @@
-# SOWA
+<div align="center">
+
+<div align="center">
+  <img src="https://github.com/gnmlabs/sowa/blob/32bc91bc06aa57d359a477bef0f05eccdb698adb/public/logo.png" alt="sowa Logo" height="300">
+</div>
+
+### Question answering system powered by LLMs
+
+<br />
+
+[![GitHub stars](https://img.shields.io/github/stars/gnmlabs/sowa.svg?style=social&label=Star)](https://github.com/gnmlabs/sowa)
+[![GitHub forks](https://img.shields.io/github/forks/gnmlabs/sowa.svg?style=social&label=Fork)](https://github.com/gnmlabs/sowa/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/gnmlabs/sowa.svg?style=social&label=Watch)](https://github.com/gnmlabs/sowa)
+
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
+![FAISS](https://img.shields.io/badge/FAISS-Latest-green.svg)
+![Groq](https://img.shields.io/badge/Groq%20API-Latest-purple.svg)
+![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+
+</div>
+
+<hr />
 
 ## 📚 Overview
 
